@@ -1,0 +1,4 @@
+{
+  "TOPIC"   : "$aws/things/[INPUT THING NAME]/shadow/update",
+  "QOS"     : 0
+}

@@ -1,0 +1,7 @@
+{
+  "EndPoint": "[INPUT AWS END POINT]",
+  "ThingName": "[INPUT THING NAME]",
+  "Port": 8883,
+  "ClientID": "[INPUT THING NAME]",
+  "Autoconn": "1"
+}

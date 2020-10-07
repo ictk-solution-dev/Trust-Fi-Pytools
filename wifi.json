@@ -1,0 +1,12 @@
+{
+  "MODE" : "STA",
+
+  "AP" : {
+  },
+
+  "STA": {
+    "SET": "A",
+    "SSID": "[INPUT WIFI SSID]",
+    "PW": "[INPUT WIFI PW]"
+  }
+}
