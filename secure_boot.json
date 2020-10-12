@@ -1,0 +1,5 @@
+{
+  "SIGNER PRIVATE KEY": "OTA signer.key",
+  "FIRMWARE": "firmware.bin",
+  "FIRMWARE VERSION": "01-01-04"
+}
